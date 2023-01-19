@@ -6,25 +6,25 @@ const DUMMY_EXPENSES = [
   {
     id: "e1",
     title: "Nike Alligance Man City FC",
-    price: 295,
+    amount: 295,
     date: new Date(2022, 1, 5),
   },
   {
     id: "e2",
     title: "Apple Charger",
-    price: 230.9,
+    amount: 230.9,
     date: new Date(2021, 5, 13),
   },
   {
     id: "e3",
     title: "Toilet Paper",
-    price: 63.7,
+    amount: 63.7,
     date: new Date(2021, 7, 11),
   },
   {
     id: "e4",
     title: "Poha",
-    price: 82,
+    amount: 82,
     date: new Date(2022, 9, 25),
   },
 ];

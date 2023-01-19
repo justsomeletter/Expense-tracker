@@ -4,6 +4,7 @@ import ExpenseDate from "./ExpenseDate";
 import "./ExpenseItem.css";
 
 export default function ExpenseItem(props) {
+  //console.log(props.amount);
   return (
     <li>
       <Card className="expense-item">
